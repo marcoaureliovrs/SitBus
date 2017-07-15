@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.marcogorak.sitbus.ActTelaInicial"
+    android:background="#185e9f">
+
+    <ImageView
+        android:layout_width="186dp"
+        android:layout_height="248dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/sitbus"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        tools:layout_editor_absoluteY="131dp"
+        tools:layout_editor_absoluteX="99dp" />
+
+</RelativeLayout>
